@@ -1,0 +1,21 @@
+@media screen and (min-width:300px) and (max-width: 600px) {
+    header{
+        width: 95vw;
+    }
+    .cont{
+        flex-wrap: wrap;
+    }
+    .Ba{
+        width: 95vw;
+    }
+    .articles{
+        justify-content: space-between;
+    }
+    aside{
+        height: 25vw;
+        width: 100vw;
+    }
+    article{
+        height: 10vw;
+    }
+}

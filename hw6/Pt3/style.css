@@ -1,0 +1,40 @@
+header{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 100vw;
+    height: 33.4vh;
+    background-color: #385185;
+    color: #FAF9F7;
+}
+section{
+    display: flex;
+    flex-direction: column;
+}
+.cont{
+    display: flex;
+}
+.Ba{
+    margin-left: 10px;
+    width: 76vw;
+    height: 33.3vh;
+    background-color: #385185;
+    color: #FAF9F7;
+}
+.articles{
+    display: flex;
+    flex-direction: row;
+}
+article{
+    margin: 10px;
+    width: 24vw;
+    height: 33.3vh;
+    background-color: #385185;
+    color: #FAF9F7;
+}
+aside{
+    margin-left: 10px;
+    width: 24vw;
+    height: 67.5vh;
+    background-color: #385185;
+    color: #FAF9F7;
+}
