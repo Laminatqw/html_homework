@@ -1,8 +1,7 @@
 @media screen and (min-width: 600px) and (max-width: 1200px) {
     .banner{
-        width: 100vw;
-        padding-right: 100px;
-        margin: 10px;
+        width: 74vw;
+
     }
     .articles{
         width: 100vw;
@@ -11,6 +10,10 @@
     .smallart{
         width: 16.5vw;
         height: 455px;
+
+    }
+    footer{
+        width: 78.5vw;
 
     }
 }
@@ -25,5 +28,11 @@
     }
     .smallart{
         width: 100vw;
+        margin: 10px;
+    }
+    footer{
+        margin: 10px;
+        width: 92vw;
+
     }
 }

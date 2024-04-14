@@ -17,7 +17,8 @@ header{
     margin-right: 10px;
 }
 .banner{
-    width: 100vw;
+    margin: 10px;
+    width: 85vw;
     height: 200px;
     background-color: #385185;
     color: #FAF9F7;
@@ -36,7 +37,7 @@ header{
 }
 .smallart{
     margin: 10px;
-    width: 42vw;
+    width: 42.2vw;
     height: 209px;
     background-color: #385185;
     color: #FAF9F7;
@@ -47,7 +48,8 @@ header{
     text-align: center;
 }
 footer{
-    width: 100vw;
+    margin: 10px;
+    width: 89vw;
     height: 53px;
     background-color: #385185;
     color: #FAF9F7;
