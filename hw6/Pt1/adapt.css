@@ -1,0 +1,29 @@
+@media screen and (min-width: 600px) and (max-width: 1200px) {
+    .banner{
+        width: 100vw;
+        padding-right: 100px;
+        margin: 10px;
+    }
+    .articles{
+        width: 100vw;
+        flex-wrap: nowrap;
+    }
+    .smallart{
+        width: 16.5vw;
+        height: 455px;
+
+    }
+}
+@media screen and (min-width: 300px) and (max-width: 600px){
+    header{
+        flex-wrap: wrap;
+
+    }
+    .link{
+        width: 100vw;
+        margin: 10px;
+    }
+    .smallart{
+        width: 100vw;
+    }
+}
